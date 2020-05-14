@@ -31,7 +31,6 @@ def make_courses
 get_courses.each do |course|
   puts course
   #binding.pry
-
 end
 end
 
