@@ -33,6 +33,7 @@ get_courses.each do |course|
   #binding.pry
 
 end
+course
 end
 
 end
