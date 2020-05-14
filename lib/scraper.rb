@@ -30,7 +30,7 @@ end
 def make_courses
 get_courses.each do |course|
   puts course
-  binding.pry
+  #binding.pry
 
 end
 end
